@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+
+$grey:#BCB4A5;
+$light-grey:#D8D8D8;
+$white:#FFFFFF;
+$light-white:#F9F9F9;
+$light-blue:#6193F5;
+$sky-blue-light:#A3CEFB;
+$gree:#64996B;
+
+html,body{
+  background-color: $light-white;
+  height: 100%;
+}
