@@ -1,0 +1,45 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg">
+ <title>maron  Flame Logo 5</title>
+ <defs>
+  <linearGradient y1="0.402344" x1="0.464844" y2="1" x2="1" id="svg_267">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#ffaa56"/>
+   <stop offset="0.523438" stop-opacity="0.996094" stop-color="#7f3f00"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient y1="0.25" x1="0.355469" y2="1" x2="1" id="svg_271">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#ffaa56"/>
+   <stop offset="0.523438" stop-opacity="0.996094" stop-color="#7f3f00"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient y1="0.234375" x1="0.371094" y2="1" x2="1" id="svg_273">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#ffaa56"/>
+   <stop offset="0.449219" stop-opacity="0.996094" stop-color="#7f3f00"/>
+   <stop offset="0.988281" stop-opacity="0.996094" stop-color="#000000"/>
+  </linearGradient>
+  <linearGradient y1="0.140625" x1="0.375" y2="0.421875" x2="0.824219" id="svg_305">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#ffd400"/>
+   <stop offset="0.523438" stop-opacity="0.992188" stop-color="#ffcc00"/>
+   <stop offset="1" stop-opacity="0.988281" stop-color="#ff9000"/>
+  </linearGradient>
+  <linearGradient y1="0.565365" x1="0.25" y2="1" x2="1" id="svg_309">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#ff0000"/>
+   <stop offset="0.488281" stop-opacity="0.988281" stop-color="#ffd460"/>
+   <stop offset="0.570313" stop-opacity="0.988281" stop-color="#ffd460"/>
+   <stop offset="1" stop-opacity="0.984375" stop-color="#0026ff"/>
+   <stop offset="1" stop-opacity="0.984375" stop-color="#4f68f7"/>
+   <stop offset="1" stop-opacity="0.984375" stop-color="#4f68f7"/>
+  </linearGradient>
+  <linearGradient y1="0" x1="0" y2="1" x2="1" id="svg_310">
+   <stop offset="0" stop-opacity="0.996094" stop-color="#ffff00"/>
+   <stop offset="0.542969" stop-opacity="0.996094" stop-color="#56aaff"/>
+   <stop offset="0.683594" stop-opacity="0.996094" stop-color="#007fff"/>
+   <stop offset="1" stop-opacity="0.996094" stop-color="#007fff"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_24" d="m188,43.5c16.283005,20.0667 23.742004,43.316696 9.649994,73.862999c-14.091995,30.545006 -51.232986,78.387001 -81.149994,129.636986c-59.833302,102.500015 69.5,154.167007 80.167007,155.167007c10.665985,1 -52,-39.166992 -32.167007,-100.166992c19.832993,-61.000015 65.533005,-95.332993 78.5,-141.899994c12.966995,-46.567017 -87.567001,-156.733326 -55,-116.600018l0,0l0,0l0,0l0,0.000011z" stroke-linecap="square" stroke-linejoin="round" stroke-width="0" stroke="url(#svg_267)" fill="url(#svg_309)"/>
+  <path transform="rotate(-3.26396 234.711 263.324)" id="svg_25" d="m266.059998,164.934006c2.86499,6.774994 3.694,18.908997 -0.71701,32.923996c-4.409973,14.013992 -10.05899,24.309006 -22.148987,41.005997c-6.046005,8.348007 -19.517349,24.280258 -26.541,33.526016c-7.023651,9.245758 -9.195999,11.714996 -20.763,29.595978c-23.134003,35.761993 17.156998,74.64801 9.863998,61.651001c-7.291992,-12.996002 5.298004,-36.779999 17.460007,-52.518005c12.160995,-15.738983 20.190994,-22.92099 32.047989,-38.119995c11.856018,-15.199005 24.300995,-39.419998 25.169006,-53.17099c0.868011,-13.751999 0.338989,-18.177002 -4.248993,-33.279007c-4.58902,-15.102997 -15.854004,-35.166 -10.122009,-21.61499z" stroke-linecap="square" stroke-linejoin="null" stroke-width="0" stroke="url(#svg_271)" fill="url(#svg_305)"/>
+  <path id="svg_26" d="m232.212997,395.329987c-4.660004,8.613007 -5.98999,-18.132996 2.305008,-41.286987c8.294998,-23.152985 24.647003,-36.518005 41.904999,-65.42099c8.629486,-14.451508 16.015503,-28.983337 19.005981,-41.92923c2.990509,-12.945877 2.816254,-23.998138 -1.213257,-30.875137c-8.059998,-13.753998 0.281281,-1.167496 4.290283,4.761353c4.009003,5.928848 4.134308,6.847168 6.678986,11.193008c2.544678,4.34584 4.21933,8.393646 4.986511,10.561646c0.767181,2.167999 3.406494,7.505356 4.282501,22.732361c0.876007,15.22702 -9.307007,51.628021 -43.404999,84.438995c-34.097992,32.810974 -34.175018,37.212006 -38.836014,45.824982z" stroke-linecap="square" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="url(#svg_273)" fill="url(#svg_310)"/>
+ </g>
+</svg>

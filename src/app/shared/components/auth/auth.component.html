@@ -1,10 +1,59 @@
 <div class="container-fluid login-wrap">
-  <div class="row login-row">
-    <div class="col-md-6 login-left">
-
+    <div class="row login-row">
+        <div class="container login-container">
+            <mat-card class="login-card">
+                <div class="col-lg-6 col-md-6 col-sm-4 hidden-xs login-left center">
+                    <img src="assets/common/logo/white-logo.svg" class="logo-image-left">
+                    <p>WELCOME TO</p>
+                    <h4>SCHOOLONE</h4>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-8 col-xs-12 login-right">
+                    <div class="lgbox">
+                        <p><img src="assets/common/logo/grey-logo.svg" class="logo-image"> </p>
+                        <h2 class="lwtext">Welcome Back,</h2>
+                        <p class="lwtext-small">Sign in to continue</p>
+                        <div class="fbox">
+                            <div class="form-group">
+                                <div class="btn-group">
+                                    <button type="button" class="btn btn-default"> &nbsp;&nbsp;&nbsp;2018 &nbsp;&nbsp;&nbsp;</button>
+                                    <button type="button" class="btn btn-primary"> &nbsp;&nbsp;&nbsp;2019 &nbsp;&nbsp;&nbsp;</button>
+                                    <button type="button" class="btn btn-default"> &nbsp;&nbsp;&nbsp;2020 &nbsp;&nbsp;&nbsp;</button>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-container">
+                                    <mat-form-field>
+                                        <input matInput placeholder="Enter code" [formControl]="email" required>
+                                        <mat-error *ngIf="email.invalid">{{getErrorMessage()}}</mat-error>
+                                    </mat-form-field>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-container">
+                                    <mat-form-field>
+                                        <input matInput placeholder="Enter username" [formControl]="email" required>
+                                        <mat-error *ngIf="email.invalid">{{getErrorMessage()}}</mat-error>
+                                    </mat-form-field>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <div class="form-container">
+                                    <mat-form-field>
+                                        <input matInput placeholder="Enter password" [formControl]="email" required>
+                                        <mat-error *ngIf="email.invalid">{{getErrorMessage()}}</mat-error>
+                                    </mat-form-field>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <p class="pull-right">Forgot Password ?</p>
+                            </div>
+                            <div class="form-group">
+                                <button class="btn btn-block btn-success">SIgn In</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </mat-card>
+        </div>
     </div>
-    <div class="col-md-6 login-right">
-
-    </div>
-  </div>
 </div>

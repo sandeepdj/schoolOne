@@ -1,10 +1,91 @@
 $white:#fff;
-
-
-.login-wrap,.login-row,.login-left,.login-right{
-  height: 100%;
+$loginbg:#6747CD;
+$light-grey:#D8D8D8;
+$light-white:#F6F6F6;
+.login-wrap,
+.login-row,
+.login-left,
+.login-right,
+.login-container {
+    height: 100%;
 }
 
-.login-right{
-  background-color: $white;
+.login-row {
+    background: #4776E6;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #8E54E9, #4776E6);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #8E54E9, #4776E6);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.login-card {
+    margin-top: 3%;
+    height: 88%;
+    padding: 0px;
+}
+
+.login-left {
+    //background-color: $loginbg;
+    background-color: $light-white;
+    padding: 10%;
+}
+
+.login-right {
+    background-color: $light-white;
+    padding: 0px;
+}
+
+.logo-image {
+    height: 150px;
+    width: 140px;
+}
+
+.logo-image-left {
+    height: 210px;
+    width: 200px;
+    padding-left: 11%;
+}
+
+.lwtext {
+    font-weight: bold;
+}
+
+.lwtext-small {
+    color: #acacac;
+    font-size: 16px;
+}
+
+.lwtext,
+.lwtext-small {
+    font-family: 'Lato', sans-serif;
+}
+
+.lgbox {
+    width: 90%;
+    height: 100%;
+    margin-left: 10%;
+    background: #fff;
+    padding: 0% 18% 0% 8%;
+}
+
+// .form-container {
+//     width: 60%;
+// }
+.fbox {
+    margin-top: 8%;
+    padding-right: 5%;
+}
+
+.fbox .mat-input-container {
+    width: 100%;
+}
+
+.login-left h4 {
+    font-weight: bold;
+}
+
+.login-left p,
+.login-left h4 {
+    color: #4776E6;
 }
